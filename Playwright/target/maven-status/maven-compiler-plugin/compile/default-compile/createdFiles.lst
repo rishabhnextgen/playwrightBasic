@@ -1,0 +1,6 @@
+com\playwright\learn\config\ConfigReader.class
+com\playwright\learn\pages\PlaywrightHomePage.class
+com\playwright\learn\pages\FlipkartHomePage.class
+com\playwright\learn\browser\BrowserFactory.class
+com\playwright\learn\browser\PlaywrightManager.class
+com\playwright\learn\pages\BasePage.class
